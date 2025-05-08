@@ -3,11 +3,6 @@
 Working as an apprentice in IT for Rolex ♛⌚🇨🇭.
 
 
-## 📫 Contact Me
-
-- 📧 [m3.rc29@proton.me](mailto:m3.rc29@proton.me)
-- 📞 +41 76 619 99 15
-
 
 ## Tools I've used
 
@@ -18,6 +13,11 @@ Working as an apprentice in IT for Rolex ♛⌚🇨🇭.
 
 
 ---
+## 📫 Contact Me
+
+- 📧 [m3.rc29@proton.me](mailto:m3.rc29@proton.me)
+- 📞 +41 76 619 99 15
+
 
 
 
