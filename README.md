@@ -1,4 +1,9 @@
-## Mathieu J.
-- I'm from Switzerland 🇨🇭🫕
-- I am currently working as an apprentice in IT for Rolex ♛
-- During my free time, I like to game 🎮
+# Greetings
+## I'm M3.
+Working as an apprentice in IT for Rolex ♛⌚🇨🇭.
+
+
+## Contacts
+📧 m3.rc29@proton.me
+📞 076 619 99 15
+
