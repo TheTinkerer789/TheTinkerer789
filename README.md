@@ -8,10 +8,15 @@ Working as an apprentice in IT for Rolex ♛⌚🇨🇭.
 
 ## Tools I've used
 
-![image](https://github.com/user-attachments/assets/b288617f-d876-47ff-96b5-1ad97f57bb56)
-![image](https://github.com/user-attachments/assets/8216fcd1-a992-47f7-a7e3-c725b810b68e)
-![image](https://github.com/user-attachments/assets/c30500a5-1243-4b82-8c84-554ee70ad9e4)
-![image](https://github.com/user-attachments/assets/681fa983-bcb0-4ca6-82af-fccd41f3469d)
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
+<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"> 
+<img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"> 
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"> 
 
 
 ---
