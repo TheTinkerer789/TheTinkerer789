@@ -2,7 +2,7 @@
 ![elden-ring_siteOfGrace](https://github.com/user-attachments/assets/bda527b1-0b6b-4e85-9943-28a6cc0971c5)
 
 ## I'm M3.
-Working as an apprentice in IT for Rolex ♛⌚🇨🇭.
+Working as an apprentice in IT 🇨🇭.
 
 
 
